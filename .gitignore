@@ -1,0 +1,37 @@
+# Unreal Engine build artifacts
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+.ue4dependencies
+*.target
+*.modules
+*.version
+CMakeLists.txt
+compileCommands.json
+
+# Visual Studio / IDE
+.vs/
+.idea/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj/
+*.xcworkspace/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# User-specific files
+*.user
+*.log
